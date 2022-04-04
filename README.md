@@ -12,7 +12,7 @@ pero mi apasion es el desarrollo frontend.
 
 ## Leguajes
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](#)
+[<img src="https://user-images.githubusercontent.com/63917854/161461701-ead9a540-d9b1-4715-8c6e-a0afd46cd15a.svg" alt="html5" width="40" height="40"/>](#)
 
 ## Puedes contactarme en mis redes sociales
 
