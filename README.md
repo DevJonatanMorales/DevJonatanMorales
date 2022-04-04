@@ -10,7 +10,7 @@ for(practice = study, practice <= discipline, pratice++)
 con una pre-espeliacion en informática forense.  
 pero mi apasion es el desarrollo frontend. 
 
-## Leguajes
+## Leguajes y framework 
 
 [<img src="https://user-images.githubusercontent.com/63917854/161461701-ead9a540-d9b1-4715-8c6e-a0afd46cd15a.svg" alt="HTML5" width="40" height="40"/>](#)
 [<img src="https://user-images.githubusercontent.com/63917854/161461868-76a44c30-da1d-48bb-a6c2-97ff4ed8a473.svg" alt="CSS3" width="40" height="40"/>](#)
