@@ -14,7 +14,8 @@ pero mi apasion es el desarrollo frontend.
 
 [<img src="https://user-images.githubusercontent.com/63917854/161461701-ead9a540-d9b1-4715-8c6e-a0afd46cd15a.svg" alt="HTML5" width="40" height="40"/>](#)
 [<img src="https://user-images.githubusercontent.com/63917854/161461868-76a44c30-da1d-48bb-a6c2-97ff4ed8a473.svg" alt="CSS3" width="40" height="40"/>](#)
-[<img src="https://user-images.githubusercontent.com/63917854/161462132-0a7cbb75-d216-4342-8103-9ee97bd13077.svg" alt="CSS3" background-color="#FFF" width="40" height="40"/>](#)
+[<img src="https://user-images.githubusercontent.com/63917854/161462132-0a7cbb75-d216-4342-8103-9ee97bd13077.svg" alt="Bootstrap" background-color="#FFF" width="40" height="40"/>](#)
+[<img src="https://user-images.githubusercontent.com/63917854/161462409-5564e644-57a0-42f7-ad24-19e127c0cca8.svg" alt="Javascript" width="40" height="40"/>](#)
 
 ## Puedes contactarme en mis redes sociales
 
