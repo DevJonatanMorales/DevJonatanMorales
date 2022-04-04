@@ -1,8 +1,13 @@
 ## **Hola, soy Jonatan Morales es un gusto saludarte 👋**
 
-### **for(practice = study, practice <= discipline, pratice++) { success(); }**
+```js
+for(practice = study, practice <= discipline, pratice++)
+{
+  success();
+}
+```
 
-> Actualmente estoy sacando una carrera en Ingenieria en Sistemas y Redes Informaticas con una pre especializacion en Informatica forence pero lo que realmente me apaciona es el desarrollo web en especial la parte Frond end, tengo conocimientos en \*\*HTML5, CSS3 JS, PHP Y MYSQL
+> Actualmente Soy estudiante en Ingenieria en Sistemas y Redes informática con una pre-espeliacion en informática forense. pero mi apasion es el desarrollo frontend.
 
 - 📫 Puedes contactarme en mis redes sociales
 
