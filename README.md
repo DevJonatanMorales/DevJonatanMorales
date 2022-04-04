@@ -1,13 +1,14 @@
-# **console.log(":expressionless: Hola, soy Jonatan Morales es un gusto saludarte 👋")**
+# **Hola, soy Jonatan Morales es un gusto saludarte 👋**
 
 > Actualmente estoy sacando una carrera en Ingenieria en Sistemas y Redes Informaticas con una pre especializacion en Informatica forence pero lo que realmente me apaciona es el desarrollo web en especial la parte Frond end, tengo conocimientos en **HTML5, CSS3 JS, PHP Y MYSQL**
 
-
->Puedes seguirme en mis redes sociales
+> Puedes seguirme en mis redes sociales
 
 - [Facebook](https://www.facebook.com/jonatan.morales.3572846/)
 - [Linkedin](www.linkedin.com/in/jonatan-morales-7b4617232)
 - [YouTube](https://www.youtube.com/channel/UCxw3dssRXTAq5CmXSjp2Ujw)
+
+> **for(practice = study, practice <= discipline, pratice++) { success(); }**
 
 <!--
 **DevJonatanMorales/DevJonatanMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
