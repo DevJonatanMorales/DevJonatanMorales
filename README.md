@@ -9,7 +9,7 @@ for(practice = study, practice <= discipline, pratice++)
 
 > Actualmente Soy estudiante en Ingenieria en Sistemas y Redes informática  
 > con una pre-espeliacion en informática forense.  
-> pero mi apasion es el desarrollo frontend.
+> pero mi apasion es el desarrollo frontend. Todos mis proyecto orientados en frondent estan disponible en [Frontend Mentor](https://www.frontendmentor.io/profile/DevJonatanMorales)
 
 ## Leguajes
 
