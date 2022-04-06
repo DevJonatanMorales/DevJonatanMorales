@@ -7,9 +7,7 @@ for(practice = study, practice <= discipline, pratice++)
 }
 ```
 
-> Actualmente Soy estudiante en Ingenieria en Sistemas y Redes informática  
-> con una pre-espeliacion en informática forense.  
-> pero mi apasion es el desarrollo frontend. Todos mis proyecto orientados en frondent estan disponible en [Frontend Mentor](https://www.frontendmentor.io/profile/DevJonatanMorales)
+> Hola, actualmente soy estudiante en Ingeniería en Sistemas y Redes Informática con una pre-especializacion en informática forense. Pero mi pasión es el desarrollo frontend. También puedes ver los desafíos de frondent que he completado y que están disponible en [Frontend Mentor](https://www.frontendmentor.io/profile/DevJonatanMorales)
 
 ## Leguajes
 
@@ -33,4 +31,3 @@ for(practice = study, practice <= discipline, pratice++)
 
 - [Facebook](https://www.facebook.com/jonatan.morales.3572846/)
 - [Linkedin](www.linkedin.com/in/jonatan-morales-7b4617232)
-- [YouTube](https://www.youtube.com/channel/UCxw3dssRXTAq5CmXSjp2Ujw)
