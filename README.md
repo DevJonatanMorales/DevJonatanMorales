@@ -30,4 +30,4 @@ for(practice = study, practice <= discipline, pratice++)
 ## Puedes contactarme en mis redes sociales
 
 - [Facebook](https://www.facebook.com/jonatan.morales.3572846/)
-- [Linkedin](www.linkedin.com/in/jonatan-morales-7b4617232)
+- [Linkedin](https://www.linkedin.com/in/jonatan-morales-7b4617232/)
