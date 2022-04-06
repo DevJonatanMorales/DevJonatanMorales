@@ -19,7 +19,7 @@ pero mi apasion es el desarrollo frontend.
 [<img src="https://user-images.githubusercontent.com/63917854/161873525-7942ecc5-8a99-4c06-9f05-f4b18c954b26.png" alt="MySql" width="40" height="40"/>](#)
 
 ## Framework 
-[<img src="https://user-images.githubusercontent.com/63917854/161462132-0a7cbb75-d216-4342-8103-9ee97bd13077.svg" alt="Bootstrap" background-color="#FFF" width="40" height="40"/>](#)
+[<img src="https://user-images.githubusercontent.com/63917854/161873666-6094da49-20e3-4f21-9f5e-fa72e50d4784.png" alt="Bootstrap" background-color="#FFF" width="40" height="40"/>](#)
 
 ## Puedes contactarme en mis redes sociales
 
