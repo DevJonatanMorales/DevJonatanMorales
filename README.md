@@ -16,7 +16,7 @@ pero mi apasion es el desarrollo frontend.
 [<img src="https://user-images.githubusercontent.com/63917854/161461868-76a44c30-da1d-48bb-a6c2-97ff4ed8a473.svg" alt="CSS3" width="40" height="40"/>](#)
 [<img src="https://user-images.githubusercontent.com/63917854/161462409-5564e644-57a0-42f7-ad24-19e127c0cca8.svg" alt="Javascript" width="40" height="40"/>](#)
 [<img src="https://user-images.githubusercontent.com/63917854/161462601-d70aa836-0785-48f5-b08a-cf43df27b602.svg" alt="Php" width="40" height="40"/>](#)
-[<img src="https://user-images.githubusercontent.com/63917854/161462738-bc50acfe-ed95-4fc9-88f0-a9cbe8c39147.svg" alt="MySql" width="40" height="40"/>](#)
+[<img src="https://user-images.githubusercontent.com/63917854/161873525-7942ecc5-8a99-4c06-9f05-f4b18c954b26.png" alt="MySql" width="40" height="40"/>](#)
 
 ## Framework 
 [<img src="https://user-images.githubusercontent.com/63917854/161462132-0a7cbb75-d216-4342-8103-9ee97bd13077.svg" alt="Bootstrap" background-color="#FFF" width="40" height="40"/>](#)
