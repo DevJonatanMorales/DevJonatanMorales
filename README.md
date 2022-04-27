@@ -14,16 +14,15 @@ for(practice = study, practice <= discipline, pratice++)
 [<img src="./img/html_icon.svg" alt="HTML5" width="40" height="40"/>](#)
 [<img src="./img/css_icon.svg" alt="CSS3" width="40" height="40"/>](#)
 [<img src="./img/js_icon.svg" alt="Javascript" width="40" height="40"/>](#)
-[<img src="php_icon.svg" alt="PHP" width="40" height="40"/>](#)
-[<img src="mysql_icon.png" alt="MySql" width="40" height="40"/>](#)
+[<img src="./img/php_icon.svg" alt="PHP" width="40" height="40"/>](#)
 
 ## Framework
 
-[<img src="https://user-images.githubusercontent.com/63917854/161873666-6094da49-20e3-4f21-9f5e-fa72e50d4784.png" alt="Bootstrap" background-color="#FFF" width="40" height="40"/>](#)
+[<img src="./img/bootstrap_icon.svg" alt="Bootstrap" background-color="#FFF" width="40" height="40"/>](#)
 
 ## Base de batos
 
-[<img src="mysql_icon.png" alt="MySql" width="40" height="40"/>](#)
+[<img src="./img/mysql_icon.png" alt="MySql" width="40" height="40"/>](#)
 
 ## Dashboard
 
