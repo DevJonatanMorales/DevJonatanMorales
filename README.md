@@ -31,7 +31,7 @@ for(practice = study, practice <= discipline, pratice++)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevJonatanMorales&show_icons=true&title_color=1e2735&text_color=405472&bg_color=e1e6ee&locale=en" alt="DevJonatanMorales" /></p>
 
-## Puedes contactarme en mis redes sociales
+## Conéctate conmigo:
 
-- [Facebook](https://www.facebook.com/jonatan.morales.3572846/)
 - [Linkedin](https://www.linkedin.com/in/jonatan-morales-7b4617232/)
+- [Facebook](https://www.facebook.com/jonatan.morales.3572846/)
