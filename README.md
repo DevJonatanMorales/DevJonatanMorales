@@ -1,8 +1,7 @@
 ## **Hola 👋, soy Jonatan Morales es un gusto saludarte**
 
 ```js
-for(practice = study, practice <= discipline, pratice++)
-{
+for (practice = study; practice <= discipline; pratice++) {
   success();
 }
 ```
