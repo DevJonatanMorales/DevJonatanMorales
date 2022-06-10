@@ -1,7 +1,5 @@
 ## **Hola 👋, soy Jonatan Morales es un gusto saludarte**
 
----
-
 ```js
 for (practice = study; practice <= discipline; pratice++) {
   success();
@@ -11,8 +9,6 @@ for (practice = study; practice <= discipline; pratice++) {
 > Hola, actualmente soy estudiante en Ingeniería en Sistemas y Redes Informática con una pre-especializacion en informática forense. Pero mi pasión es el desarrollo frontend. También puedes ver los desafíos de frondent que he completado y que están disponible en [Frontend Mentor](https://www.frontendmentor.io/profile/DevJonatanMorales)
 
 ## 💻Tech Stack
-
----
 
 ### Leguajes
 
@@ -35,14 +31,10 @@ for (practice = study; practice <= discipline; pratice++) {
 
 ## 📊GitHub Stats
 
----
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevJonatanMorales&show_icons=true&title_color=1e2735&text_color=405472&bg_color=e1e6ee&locale=en" alt="DevJonatanMorales" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJonatanMorales&show_icons=true&title_color=1e2735&text_color=405472&bg_color=e1e6ee&locale=en" alt="DevJonatanMorales" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevJonatanMorales&show_icons=true&title_color=1e2735&text_color=405472&bg_color=e1e6ee&locale=en" alt="DevJonatanMorales" /></p>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=DevJonatanMorales&icon=0&color=0)](https://visitcount.itsvg.in)
