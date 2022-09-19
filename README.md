@@ -6,7 +6,7 @@ for (practice = study; practice <= discipline; pratice++) {
 }
 ```
 
-> Estudiante en ing. en sistemas y redes informáticas, busco oportunidad para adquirir experiencia en el desarrollo front-end o desarrollo de aplicaciones moviles para android; Busco siempre trabajar en equipo, cooperando con todos y apoyando de la mejor manera posible, siendo respoble y puntual. También puedes ver los desafíos de frondent que he completado y que están disponible en [Frontend Mentor](https://www.frontendmentor.io/profile/DevJonatanMorales)
+> Estudiante en ing. en sistemas y redes informáticas, busco oportunidad para adquirir experiencia en el desarrollo front-end, busco siempre trabajar en equipo, cooperando con todos y apoyando de la mejor manera posible, siendo respoble y puntual. También puedes ver los desafíos de frondent que he completado y que están disponible en [Frontend Mentor](https://www.frontendmentor.io/profile/DevJonatanMorales)
 
 ## 💻Tech Stack
 
