@@ -19,9 +19,7 @@ for (practice = study; practice <= discipline; pratice++) {
 
 ### Framework
 
-[<img src="./img/react.svg" alt="React" background-color="#FFF" width="40" height="40"/>](#)
-
-[<img src="./img/bootstrap_icon.svg" alt="Bootstrap" background-color="#FFF" width="40" height="40"/>](#)
+[<img src="./img/react_icon.png" alt="React" background-color="#FFF" width="40" height="40"/>](#)[<img src="./img/bootstrap_icon.svg" alt="Bootstrap" background-color="#FFF" width="40" height="40"/>](#)
 
 ### Base de batos
 
