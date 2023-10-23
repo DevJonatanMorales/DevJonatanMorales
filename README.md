@@ -29,12 +29,8 @@ for (practice = study; practice <= discipline; pratice++) {
 
 - [Linkedin](https://www.linkedin.com/in/jonatan-morales-7b4617232/)
 
-## 📊GitHub Stats
+### ⚙️ &nbsp;GitHub Analytics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJonatanMorales&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJonatanMorales&layout=compact&theme=onedark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevJonatanMorales&show_icons=true&title_color=1e2735&text_color=405472&bg_color=e1e6ee&locale=en" alt="DevJonatanMorales" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJonatanMorales&show_icons=true&title_color=1e2735&text_color=405472&bg_color=e1e6ee&locale=en" alt="DevJonatanMorales" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevJonatanMorales&show_icons=true&title_color=1e2735&text_color=405472&bg_color=e1e6ee&locale=en" alt="DevJonatanMorales" /></p>
-
-[![](https://visitcount.itsvg.in/api?id=DevJonatanMorales&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DevJonatanMorales&theme=onedark)](https://visitcount.itsvg.in)
