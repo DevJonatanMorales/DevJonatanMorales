@@ -25,6 +25,5 @@ Soy un apasionado desarrollador con experiencia en React y me siento cómodo tra
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJonatanMorales&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevJonatanMorales&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=DevJonatanMorales&theme=merko)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DevJonatanMorales&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
