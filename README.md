@@ -1,4 +1,3 @@
-## **Hola 👋, soy Jonatan Morales es un gusto saludarte**
 
 ```js
 for (practice = study; practice <= discipline; pratice++) {
@@ -6,31 +5,26 @@ for (practice = study; practice <= discipline; pratice++) {
 }
 ```
 
-> Estudiante en ing. en sistemas y redes informáticas, busco oportunidad para adquirir experiencia en el desarrollo front-end, busco siempre trabajar en equipo, cooperando con todos y apoyando de la mejor manera posible, siendo respoble y puntual. También puedes ver los desafíos de frondent que he completado y que están disponible en [Frontend Mentor](https://www.frontendmentor.io/profile/DevJonatanMorales)
 
-## 💻Tech Stack
+# 💫 About Me:
+Soy un apasionado desarrollador con experiencia en React y me siento cómodo trabajando tanto con clases como con componentes funcionales. Graduado en Ingeniería en Sistemas y Redes Informáticas, trabajo como desarrollador frontend. Mi enfoque se centra en el desarrollo de aplicaciones web y la creación de experiencias de usuario, ampliando así mis habilidades en el mundo del desarrollo web. Estoy comprometido con el aprendizaje constante y siempre estoy en busca de nuevas formas para mejorar mis habilidades.
 
-### Leguajes
 
-[<img src="./img/html_icon.svg" alt="HTML5" width="40" height="40"/>](#)
-[<img src="./img/css_icon.svg" alt="CSS3" width="40" height="40"/>](#)
-[<img src="./img/js_icon.svg" alt="Javascript" width="40" height="40"/>](#)
-[<img src="./img/php_icon.svg" alt="PHP" width="40" height="40"/>](#)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/devjonatanmo) 
 
-### Framework
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[<img src="./img/react_icon.png" alt="React" background-color="#FFF" width="40" height="40"/>](#)[<img src="./img/bootstrap_icon.svg" alt="Bootstrap" background-color="#FFF" width="40" height="40"/>](#)
+# Learning:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Base de batos
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DevJonatanMorales&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevJonatanMorales&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJonatanMorales&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[<img src="./img/mysql_icon.png" alt="MySql" width="40" height="40"/>](#)
+---
+[![](https://visitcount.itsvg.in/api?id=DevJonatanMorales&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Conéctate conmigo:
-
-- [Linkedin](https://www.linkedin.com/in/jonatan-morales-7b4617232/)
-
-### ⚙️ &nbsp;GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJonatanMorales&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJonatanMorales&layout=compact&theme=onedark)
-
-[![](https://visitcount.itsvg.in/api?id=DevJonatanMorales&theme=onedark)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DevJonatanMorales&theme=merko)](https://visitcount.itsvg.in)
